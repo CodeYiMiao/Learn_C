@@ -1,3 +1,0 @@
-D:/Learn_code/VScode_LearnC/BiliBiliLearnC/Arr_game/SanZiQi/build/CMakeFiles/main.dir
-D:/Learn_code/VScode_LearnC/BiliBiliLearnC/Arr_game/SanZiQi/build/CMakeFiles/edit_cache.dir
-D:/Learn_code/VScode_LearnC/BiliBiliLearnC/Arr_game/SanZiQi/build/CMakeFiles/rebuild_cache.dir
